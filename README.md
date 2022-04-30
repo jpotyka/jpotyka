@@ -1,10 +1,10 @@
 ## About me
 
++ Founder of [Digon.IO GmbH](https://github.com/DigonIO)
 + B.Sc. Physics
 + Currently studying: M.Sc. Computer Simulation in Science
 + Data analysis
 + Python developer
-+ Member of [Digon.IO](https://github.com/DigonIO)
 
 ## Interests
 
