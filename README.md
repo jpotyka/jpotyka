@@ -8,7 +8,7 @@
 
 ## About me
 
-+ Founder of [Digon.IO GmbH](https://github.com/DigonIO) - Data science & software development
++ Founder of [Digon.IO GmbH](https://digon.io) - Data science & software development
 + B.Sc. Physics
 + Python + Data science
 + Tooling
