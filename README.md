@@ -10,11 +10,9 @@
 
 + Founder of [Digon.IO GmbH](https://digon.io) - Data science & software development
 + B.Sc. Physics
-+ Python + Data science
-+ Tooling
-  + DevOps
-  + Development 
-
++ Python Development & DevOps
+  
+If you want more information about me, please visit my website <https://potyka.net>.
 
 ## Projects
 
