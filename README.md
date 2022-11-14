@@ -20,6 +20,10 @@ If you want more information about me, please visit my website <https://potyka.n
 
 A simple in-process python scheduler library with timezone and threading support. Schedule tasks by their time cycles, fixed times, weekdays, dates, weights, offsets and execution counts and automate Jobs.
 
+###  [PyPermission](https://github.com/DigonIO/pypermission)
+
+A role-based access control (RBAC) permission library for python. 
+
 ###  [imgreg](https://github.com/DigonIO/imgreg)
 
 An image registration library for python including a simple interface for building new models. Currently two image registration models for linear transformations based on scikit have been implemented as part of a toolchain in the context of particle image velocimetry (PIV). Tested for Python 3.7 to Python 3.9.
