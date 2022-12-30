@@ -20,6 +20,10 @@ If you want more information about me, please visit my website <https://potyka.n
 
 A simple in-process python scheduler library with timezone and threading support. Schedule tasks by their time cycles, fixed times, weekdays, dates, weights, offsets and execution counts and automate Jobs.
 
+###  [HostYourDocs](https://github.com/DigonIO/hostyourdocs)
+
+HostYourDocs on your own infrastructure, easy, secure, and publicly accessible! 
+
 ###  [PyPermission](https://github.com/DigonIO/pypermission)
 
 A role-based access control (RBAC) permission library for python. 
