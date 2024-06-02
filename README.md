@@ -1,7 +1,7 @@
 <br>
 <div align="center">
   <a href="https://digon.io">
-    <img alt="Digon.IO" src="https://digon.io/static/modules/img/digon_name_right_white.svg" width="50%">
+    <img alt="Digon.IO" src="https://digon.io/static/modules/img/digon_name_right_white.svg" width="30%">
   </a>
 </div>
 
