@@ -1,7 +1,3 @@
----
-description: foo bar
----
-
 <br>
 <div align="center">
   <a href="https://digon.io">
